@@ -19,13 +19,6 @@ You can also check out my profile on hashnode : https://oauth-20.hashnode.dev
 
 ---
 
-## Published Articles
-
-### 1. Apex API – Beginner’s Guide to API Requests  
-A complete introduction to APIs, HTTP methods (GET, POST, PUT, DELETE), Postman testing, and using `fetch()` in JavaScript.
-
-Read here: https://oauth-20.hashnode.dev/apex-api?showSharer=true
-
 ---
 
 ## My current goals
