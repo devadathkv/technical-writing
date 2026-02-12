@@ -19,8 +19,6 @@ You can also check out my profile on hashnode : https://oauth-20.hashnode.dev
 
 ---
 
----
-
 ## My current goals
 
 My goal is to improve my ability to communicate technical concepts effectively while building a strong foundation in software development.
