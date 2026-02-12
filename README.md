@@ -2,7 +2,7 @@
 
 Welcome to my **Technical Writing** repository!
 
-This space is dedicated to documenting my journey of learning and writing about software development concepts in a clear and beginner-friendly way.
+This space is dedicated to documenting and showcasing my technical writing skills in the world of coding.
 
 Here, you’ll find technical blogs, guides, and tutorials that break down complex topics into simple explanations with real examples.
 
